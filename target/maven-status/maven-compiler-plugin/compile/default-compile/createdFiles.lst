@@ -1,0 +1,7 @@
+pjwstk\Shop\ShopApplication.class
+pjwstk\Shop\ShopService.class
+pjwstk\Shop\ShopStorage.class
+pjwstk\Shop\Product.class
+pjwstk\Shop\Client.class
+pjwstk\Shop\Cart.class
+pjwstk\Shop\Transaction.class
